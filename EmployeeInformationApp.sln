@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeInformationApp.Android", "EmployeeInformationApp\EmployeeInformationApp.Android\EmployeeInformationApp.Android.csproj", "{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeInformationApp", "EmployeeInformationApp\EmployeeInformationApp\EmployeeInformationApp.csproj", "{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1114A2F7-7A1B-4035-A2FD-387730EE7ED3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D1613D-1987-4B6C-9B55-5E3F3AA24AF5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21106D5D-C794-4028-8B63-4EFA124B8ADC}
+	EndGlobalSection
+EndGlobal
